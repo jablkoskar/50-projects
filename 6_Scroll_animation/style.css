@@ -28,6 +28,7 @@ body {
   width: 400px;
   height: 200px;
   margin: 10px;
+  margin-bottom: 40px;
   border-radius: 10px;
   box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
   transform: translateX(200vw);
